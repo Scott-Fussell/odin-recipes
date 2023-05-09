@@ -1,0 +1,13 @@
+#background-color in code like this only applies to the selected element e.g. h1
+
+body {
+    color: darkgrey;
+}
+
+* {
+    background-color: papayawhip;
+}
+
+a {
+    
+}
