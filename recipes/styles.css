@@ -7,3 +7,8 @@ body {
 * {
     background-color: papayawhip;
 }
+
+img {
+    justify-content: center;
+    align-items: center;
+}
